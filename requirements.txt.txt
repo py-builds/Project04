@@ -1,5 +1,0 @@
-kivymd.app
-kivy.lang
-kivymd.uix.datatables
-kivymd.uix.snackbar
-kivy.metrics
